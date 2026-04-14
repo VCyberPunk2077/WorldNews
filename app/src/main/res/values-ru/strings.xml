@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мировые новости</string>
+    <string name="menu">Меню</string>
+    <string name="post_image">Фото поста</string>
+    <string name="navigation_item_main">Главная</string>
+    <string name="navigation_item_favourite">Любимые</string>
+    <string name="app_logo">Логотип приложения</string>
+    <string name="login_with_your_api_key">Зарегистрироваться со своим ключом</string>
+    <string name="login_with_author_s_api_key">Зарегистрироваться с тестовым ключом разработчика</string>
+    <string name="favourite_screen_is_in_progress">Экран с любимыми новостями в работе</string>
+</resources>
